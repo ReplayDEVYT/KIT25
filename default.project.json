@@ -1,0 +1,49 @@
+{
+    "name": "KIT25",
+    "tree": {
+        "$className": "DataModel",
+
+        "Workspace": {
+            "$ignoreUnknownInstances": true,
+            "$path": "src/Workspace"
+        },
+
+        "ServerScriptService": {
+            "$ignoreUnknownInstances": true,
+            "$path": "src/ServerScriptService"
+        },
+        "StarterPlayer": {
+            "StarterCharacterScripts": {
+                "$ignoreUnknownInstances": true,
+                "$path": "src/StarterPlayer/StarterCharacterScripts"
+            },
+            "StarterPlayerScripts": {
+                "$ignoreUnknownInstances": true,
+                "$path": "src/StarterPlayer/StarterPlayerScripts"
+            }
+        },
+
+        "ReplicatedStorage": {
+            "$ignoreUnknownInstances": true,
+            "$path": "src/ReplicatedStorage"
+        },
+        "ServerStorage": {
+            "$ignoreUnknownInstances": true,
+            "$path": "src/ServerStorage"
+        },
+
+        "StarterGui": {
+            "$ignoreUnknownInstances": true,
+            "$path": "src/StarterGui"
+        },
+        "StarterPack": {
+            "$ignoreUnknownInstances": true,
+            "$path": "src/StarterGui"
+        },
+
+        "Chat": {
+            "$ignoreUnknownInstances": true,
+            "$path": "src/Chat"
+        }
+    }
+}
