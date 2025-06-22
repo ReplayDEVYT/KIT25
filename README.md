@@ -3,14 +3,6 @@
 ## DEVELOPED BY MIHOPB2, MIZMII, V_SUZUKI, ADORE_RAMEN, ZUKO, AND OTHER CONTRIBUTORS FROM THE DARK HORIZON SERVER
 (thank you to all contributors btw <3)
 
-░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░▒▓████████▓▒░▒▓███████▓▒░░▒▓████████▓▒░ 
-░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░  ░▒▓█▓▒░          ░▒▓█▓▒░▒▓█▓▒░        
-░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░  ░▒▓█▓▒░          ░▒▓█▓▒░▒▓█▓▒░        
-░▒▓███████▓▒░░▒▓█▓▒░  ░▒▓█▓▒░    ░▒▓██████▓▒░░▒▓███████▓▒░  
-░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░  ░▒▓█▓▒░   ░▒▓█▓▒░             ░▒▓█▓▒░ 
-░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░  ░▒▓█▓▒░   ░▒▓█▓▒░             ░▒▓█▓▒░ 
-░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░  ░▒▓█▓▒░   ░▒▓████████▓▒░▒▓███████▓▒░    
-
 You can contact mizmii_. on the Dark Horizon or ACS server if you need help.
 
 # INFO
